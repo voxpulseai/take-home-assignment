@@ -1,0 +1,2257 @@
+[
+    {
+        "name": "District: मुंबई उपनगर जिल्हा",
+        "completed": false,
+        "children": [
+            {
+                "name": "Letter: A",
+                "completed": false,
+                "children": [
+                    {
+                        "name": "Area: Akse",
+                        "completed": true,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Akurdi",
+                        "completed": true,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": true,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Akurli",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": true,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Ambivali",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Andheri",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Anik",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Are",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Asalpha",
+                        "completed": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Letter: B",
+                "completed": false,
+                "children": [
+                    {
+                        "name": "Area: Akse",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Akurdi",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Akurli",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Ambivali",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Andheri",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Anik",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Are",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Asalpha",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Badhavan",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Bandivali",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Bandra",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Bapanale",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Belapur",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Bhandup",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Boli",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Borala",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Borivali",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Bramhanvada",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Letter: C",
+                "completed": false,
+                "children": [
+                    {
+                        "name": "Area: Badhavan",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Bandivali",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Bandra",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Bapanale",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Belapur",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Bhandup",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Boli",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Borala",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Borivali",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Bramhanvada",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Chakala",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Chandivali",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Charkop",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Chembur",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Chinchavali",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Chincholi",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Chinchwad",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Chuing",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Letter: D",
+                "completed": false,
+                "children": [
+                    {
+                        "name": "Area: Dahisar",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Danda",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Daravali",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Darave",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Dehugaon",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Dehurod-Cantonment",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Devanar",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Dindoshi",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Divale",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Letter: E",
+                "completed": false,
+                "children": [
+                    {
+                        "name": "Area: Dahisar",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Danda",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Daravali",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Darave",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Dehugaon",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Dehurod-Cantonment",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Devanar",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Dindoshi",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Divale",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Eksar",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Erangal",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Letter: F",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: G",
+                "completed": false,
+                "children": [
+                    {
+                        "name": "Area: Ghatkopar",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Gorai",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Goregaon",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Gundavali",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Gundavali Gundavali ",
+                        "completed": false,
+                        "children": []
+                    },
+                    {
+                        "name": "Area: Gundgaon",
+                        "completed": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Letter: H",
+                "completed": false,
+                "children": [
+                    {
+                        "name": "Area: Hariyali",
+                        "completed": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Letter: I",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: J",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: K",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: L",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: M",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: N",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: O",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: P",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: Q",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: R",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: S",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: T",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: U",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: V",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: W",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: X",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: Y",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: Z",
+                "completed": false,
+                "children": []
+            }
+        ]
+    },
+    {
+        "name": "District: मुंबई जिल्हा",
+        "completed": true,
+        "children": [
+            {
+                "name": "Letter: A",
+                "completed": true,
+                "children": []
+            },
+            {
+                "name": "Letter: B",
+                "completed": false,
+                "children": [
+                    {
+                        "name": "Area: Bhuleshwar",
+                        "completed": false,
+                        "children": [
+                            {
+                                "name": "Property_number: 0",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 1",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 2",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 3",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 4",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 5",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 6",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 7",
+                                "completed": false,
+                                "children": []
+                            },
+                            {
+                                "name": "Property_number: 8",
+                                "completed": false,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Area: Byculla",
+                        "completed": false,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Letter: C",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: D",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: E",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: F",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: G",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: H",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: I",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: J",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: K",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: L",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: M",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: N",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: O",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: P",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: Q",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: R",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: S",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: T",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: U",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: V",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: W",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: X",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: Y",
+                "completed": false,
+                "children": []
+            },
+            {
+                "name": "Letter: Z",
+                "completed": false,
+                "children": []
+            }
+        ]
+    }
+]
