@@ -1,0 +1,162 @@
+# 📌 Take-Home Assignment: Real-Time Census Progress Tracker
+
+## 🎯 Goal
+
+Build a **real-time tree-based progress tracker** to monitor the completion status of different types of **censuses** across districts and areas. 
+
+System administrators will use this tool to track live updates from the backend via a visual tree on the frontend.
+
+---
+
+## 🔧 Functional Requirements
+
+### ✅ Frontend
+
+1. **Dropdown to Select Census Type**
+   - Dropdown with available census types (e.g., `1985`, `2025`, etc.).
+   - Upon selection, show the progress tree for that census.
+   - Only data for the selected census is fetched over socket.
+
+2. **Tree Visualization**
+   - Use a popular open-source charting/visualization library (e.g., **D3.js**).
+   - The tree shows nodes with checkboxes: `[✔]` for completed, `[ ]` for incomplete.
+   - Format example:
+
+     ```
+     [ ] District: मुंबई उपनगर जिल्हा
+     ├── [ ] Letter: A
+     │   └── [✔] Area: Akse
+     │       └── [✔] Property_number: 0
+     └── [ ] Letter: B
+         └── [ ] Area: Akse
+     ```
+
+3. **Live Updates**
+   - Use **WebSockets** to receive real-time progress updates from the backend.
+   - The frontend should update the tree **without resetting expanded/collapsed node states**.
+
+4. **Tech Constraints**
+   - **No SPA frameworks** (e.g., React, Angular, Vue).
+   - You may use **jQuery** or vanilla JavaScript.
+   - Render the page using **HTML + JS** only.
+
+---
+
+### 🗃️ Backend
+
+1. **Tech Stack**
+   - Use **Node.js** or **Python** (your choice).
+   - Use **MongoDB** for data storage.
+
+2. **API & WebSocket**
+   - Serve an `index.html` file (and any static assets: JS/CSS).
+   - On client connection:
+     - Fetch the selected census data.
+     - Stream real-time updates using WebSockets (e.g., `socket.io` or Python `socket.io` equivalent).
+     - Only emit updates relevant to the selected census.
+
+3. **Data Format (MongoDB)**
+
+   Documents are stored in a **flat structure** with paths:
+
+   ```json
+   {
+     "path": ["2025", "मुंबई जिल्हा", "A"],
+     "parent_path": ["2025", "मुंबई जिल्हा"],
+     "value": "A",
+     "type": "LETTER",
+     "completed": true,
+     "updated_at": "2025-05-03T18:19:17.091Z"
+   }
+```
+Example data set:
+```json
+[
+  {
+    "path": ["1985"],
+    "completed": false,
+    "parent_path": [],
+    "type": "YEAR",
+    "value": "1985"
+  },
+  {
+    "path": ["2025", "मुंबई जिल्हा"],
+    "completed": true,
+    "parent_path": ["2025"],
+    "type": "DISTRICT",
+    "value": "मुंबई जिल्हा"
+  },
+  {
+    "path": ["2025", "मुंबई जिल्हा", "A"],
+    "completed": true,
+    "parent_path": ["2025", "मुंबई जिल्हा"],
+    "type": "LETTER",
+    "value": "A"
+  },
+  {
+    "path": ["2025", "मुंबई जिल्हा", "A", "Akse"],
+    "completed": true,
+    "parent_path": ["2025", "मुंबई जिल्हा", "A"],
+    "type": "AREA",
+    "value": "Akse"
+  }
+]
+```
+
+3. **Tree Conversion**
+
+    Convert the flat list into a nested structure like:
+
+```json
+[
+  {
+    "name": "District: मुंबई जिल्हा",
+    "completed": true,
+    "children": [
+      {
+        "name": "Letter: A",
+        "completed": true,
+        "children": [
+          {
+            "name": "Area: Akse",
+            "completed": true,
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
+```
+
+## 💡 Hints
+
+- Use `path` and `parent_path` to recursively construct the nested tree from the flat MongoDB structure.
+- Maintain a map of expanded/collapsed nodes in the frontend UI so that updates do not reset the user's tree view.
+- Use `socket.on('update')` in the frontend to listen for real-time changes and update only the relevant parts of the tree.
+- On the backend, use efficient MongoDB queries and emit updates via WebSocket only for the selected census.
+- Tree visualization can be achieved using D3.js's hierarchical layout (e.g., `d3.hierarchy()` and `d3.tree()`).
+- Keep the tree rendering logic isolated so that re-renders do not interfere with UI state (e.g., use data-bound updates).
+
+---
+
+## ✅ Deliverables
+
+- ✅ A working backend server built with **Node.js** or **Python**:
+  - Serves `index.html` and any necessary static assets.
+  - Connects to **MongoDB**.
+  - Provides a WebSocket interface to send real-time updates for the selected census.
+
+- ✅ A frontend page using **HTML + JavaScript (D3.js, jQuery if needed)**:
+  - Dropdown to choose a census type.
+  - Dynamically renders a tree view of census progress.
+  - Listens for WebSocket updates and updates the UI without resetting expanded/collapsed states.
+  - A visually appealing page gets brownie points.
+
+- ✅ Tree structure is generated by transforming MongoDB's flat document format into a nested hierarchy.
+
+- ✅ A `README.md` file that includes:
+  - Setup and installation instructions.
+  - How to run both frontend and backend.
+  - How to simulate or test live updates.
+  - Any assumptions or known limitations.
