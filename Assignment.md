@@ -13,7 +13,7 @@ System administrators will use this tool to track live updates from the backend 
 ### ✅ Frontend
 
 1. **Dropdown to Select Census Type**
-   - Dropdown with available census types (e.g., `1985`, `2025`, etc.).
+   - Dropdown with available census types (e.g., `INCOME`, `CASTE`, etc.).
    - Upon selection, show the progress tree for that census.
    - Only data for the selected census is fetched over socket.
 
@@ -61,8 +61,8 @@ System administrators will use this tool to track live updates from the backend 
 
    ```json
    {
-     "path": ["2025", "मुंबई जिल्हा", "A"],
-     "parent_path": ["2025", "मुंबई जिल्हा"],
+     "path": ["INCOME", "मुंबई जिल्हा", "A"],
+     "parent_path": ["INCOME", "मुंबई जिल्हा"],
      "value": "A",
      "type": "LETTER",
      "completed": true,
@@ -80,23 +80,23 @@ Example data set:
     "value": "1985"
   },
   {
-    "path": ["2025", "मुंबई जिल्हा"],
+    "path": ["INCOME", "मुंबई जिल्हा"],
     "completed": true,
-    "parent_path": ["2025"],
+    "parent_path": ["INCOME"],
     "type": "DISTRICT",
     "value": "मुंबई जिल्हा"
   },
   {
-    "path": ["2025", "मुंबई जिल्हा", "A"],
+    "path": ["INCOME", "मुंबई जिल्हा", "A"],
     "completed": true,
-    "parent_path": ["2025", "मुंबई जिल्हा"],
+    "parent_path": ["INCOME", "मुंबई जिल्हा"],
     "type": "LETTER",
     "value": "A"
   },
   {
-    "path": ["2025", "मुंबई जिल्हा", "A", "Akse"],
+    "path": ["INCOME", "मुंबई जिल्हा", "A", "Akse"],
     "completed": true,
-    "parent_path": ["2025", "मुंबई जिल्हा", "A"],
+    "parent_path": ["INCOME", "मुंबई जिल्हा", "A"],
     "type": "AREA",
     "value": "Akse"
   }

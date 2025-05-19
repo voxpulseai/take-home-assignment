@@ -1,0 +1,8485 @@
+[{
+  "_id": "68245cfb2d39e52776fd1204",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747216693.5621352,
+  "value": "4"
+},
+{
+  "_id": "68165e24d4528ba34a354cd4",
+  "path": [
+    "INCOME"
+  ],
+  "completed": false,
+  "parent_path": [],
+  "type": "YEAR",
+  "updated_at": "2025-05-03T18:19:15.765Z",
+  "value": "INCOME"
+},
+{
+  "_id": "68165e25d4528ba34a354cfd",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME"
+  ],
+  "type": "DISTRICT",
+  "updated_at": "2025-05-03T18:19:17.091Z",
+  "value": "मुंबई जिल्हा"
+},
+{
+  "_id": "68165e25d4528ba34a354cfe",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME"
+  ],
+  "type": "DISTRICT",
+  "updated_at": "2025-05-03T18:19:17.091Z",
+  "value": "मुंबई उपनगर जिल्हा"
+},
+{
+  "_id": "68165e25d4528ba34a354d00",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "A"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": 1747402243.179172,
+  "value": "A"
+},
+{
+  "_id": "68165e25d4528ba34a354d01",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "B"
+},
+{
+  "_id": "68165e25d4528ba34a354d02",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "C"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "C"
+},
+{
+  "_id": "68165e25d4528ba34a354d03",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "D"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "D"
+},
+{
+  "_id": "68165e25d4528ba34a354d04",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "E"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "E"
+},
+{
+  "_id": "68165e25d4528ba34a354d05",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "F"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "F"
+},
+{
+  "_id": "68165e25d4528ba34a354d06",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "G"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "G"
+},
+{
+  "_id": "68165e25d4528ba34a354d07",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "H"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "H"
+},
+{
+  "_id": "68165e25d4528ba34a354d08",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "I"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "I"
+},
+{
+  "_id": "68165e25d4528ba34a354d09",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "J"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "J"
+},
+{
+  "_id": "68165e25d4528ba34a354d0a",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "K"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "K"
+},
+{
+  "_id": "68165e25d4528ba34a354d0b",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "L"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "L"
+},
+{
+  "_id": "68165e25d4528ba34a354d0c",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "M"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "M"
+},
+{
+  "_id": "68165e25d4528ba34a354d0d",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "N"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "N"
+},
+{
+  "_id": "68165e25d4528ba34a354d0e",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "O"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "O"
+},
+{
+  "_id": "68165e25d4528ba34a354d0f",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "P"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "P"
+},
+{
+  "_id": "68165e25d4528ba34a354d10",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "Q"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "Q"
+},
+{
+  "_id": "68165e25d4528ba34a354d11",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "R"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "R"
+},
+{
+  "_id": "68165e25d4528ba34a354d12",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "S"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "S"
+},
+{
+  "_id": "68165e25d4528ba34a354d13",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "T"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "T"
+},
+{
+  "_id": "68165e25d4528ba34a354d14",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "U"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "U"
+},
+{
+  "_id": "68165e25d4528ba34a354d15",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "V"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "V"
+},
+{
+  "_id": "68165e25d4528ba34a354d16",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "W"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "W"
+},
+{
+  "_id": "68165e25d4528ba34a354d17",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "X"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "X"
+},
+{
+  "_id": "68165e25d4528ba34a354d18",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "Y"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "Y"
+},
+{
+  "_id": "68165e25d4528ba34a354d19",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "Z"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-03T18:19:17.689Z",
+  "value": "Z"
+},
+{
+  "_id": "68165e29d4528ba34a354d1b",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-03T18:19:21.869Z",
+  "value": "Bhuleshwar"
+},
+{
+  "_id": "68165e29d4528ba34a354d1c",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Byculla"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-03T18:19:21.869Z",
+  "value": "Byculla"
+},
+{
+  "_id": "68165e2ad4528ba34a354d1d",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747402345.3181472,
+  "value": "0"
+},
+{
+  "_id": "68165e2ad4528ba34a354d1e",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": "2025-05-03T18:19:22.093Z",
+  "value": "1"
+},
+{
+  "_id": "68165e2ad4528ba34a354d1f",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": "2025-05-03T18:19:22.093Z",
+  "value": "2"
+},
+{
+  "_id": "68165e2ad4528ba34a354d20",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": "2025-05-03T18:19:22.093Z",
+  "value": "3"
+},
+{
+  "_id": "68165e2ad4528ba34a354d21",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": "2025-05-03T18:19:22.093Z",
+  "value": "4"
+},
+{
+  "_id": "68165e2ad4528ba34a354d22",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": "2025-05-03T18:19:22.093Z",
+  "value": "5"
+},
+{
+  "_id": "68165e2ad4528ba34a354d23",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": "2025-05-03T18:19:22.093Z",
+  "value": "6"
+},
+{
+  "_id": "68165e2ad4528ba34a354d24",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": "2025-05-03T18:19:22.093Z",
+  "value": "7"
+},
+{
+  "_id": "68165e2ad4528ba34a354d25",
+  "path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई जिल्हा",
+    "B",
+    "Bhuleshwar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": "2025-05-03T18:19:22.093Z",
+  "value": "8"
+},
+{
+  "_id": "68173413d4528ba34a355e20",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": 1746447840.497949,
+  "value": "A"
+},
+{
+  "_id": "68173413d4528ba34a355e21",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "B"
+},
+{
+  "_id": "68173413d4528ba34a355e22",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "C"
+},
+{
+  "_id": "68173413d4528ba34a355e23",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "D"
+},
+{
+  "_id": "68173413d4528ba34a355e24",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "E"
+},
+{
+  "_id": "68173413d4528ba34a355e25",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "F"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": 1746681648.055725,
+  "value": "F"
+},
+{
+  "_id": "68173413d4528ba34a355e26",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "G"
+},
+{
+  "_id": "68173413d4528ba34a355e27",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "H"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "H"
+},
+{
+  "_id": "68173413d4528ba34a355e28",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "I"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "I"
+},
+{
+  "_id": "68173413d4528ba34a355e29",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "J"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "J"
+},
+{
+  "_id": "68173413d4528ba34a355e2a",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "K"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "K"
+},
+{
+  "_id": "68173413d4528ba34a355e2b",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "L"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "L"
+},
+{
+  "_id": "68173413d4528ba34a355e2c",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "M"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "M"
+},
+{
+  "_id": "68173413d4528ba34a355e2d",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "N"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "N"
+},
+{
+  "_id": "68173413d4528ba34a355e2e",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "O"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "O"
+},
+{
+  "_id": "68173413d4528ba34a355e2f",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "P"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "P"
+},
+{
+  "_id": "68173413d4528ba34a355e30",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "Q"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "Q"
+},
+{
+  "_id": "68173413d4528ba34a355e31",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "R"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "R"
+},
+{
+  "_id": "68173413d4528ba34a355e32",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "S"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "S"
+},
+{
+  "_id": "68173413d4528ba34a355e33",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "T"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "T"
+},
+{
+  "_id": "68173413d4528ba34a355e34",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "U"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "U"
+},
+{
+  "_id": "68173413d4528ba34a355e35",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "V"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "V"
+},
+{
+  "_id": "68173413d4528ba34a355e36",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "W"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "W"
+},
+{
+  "_id": "68173413d4528ba34a355e37",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "X"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "X"
+},
+{
+  "_id": "68173413d4528ba34a355e38",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "Y"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "Y"
+},
+{
+  "_id": "68173413d4528ba34a355e39",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "Z"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा"
+  ],
+  "type": "LETTER",
+  "updated_at": "2025-05-04T09:32:02.917Z",
+  "value": "Z"
+},
+{
+  "_id": "68173414d4528ba34a355e3a",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A"
+  ],
+  "type": "AREA",
+  "updated_at": 1747404367.499757,
+  "value": "Akse"
+},
+{
+  "_id": "68173414d4528ba34a355e3b",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A"
+  ],
+  "type": "AREA",
+  "updated_at": 1747406418.682327,
+  "value": "Akurdi"
+},
+{
+  "_id": "68173414d4528ba34a355e3c",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-04T09:32:04.783Z",
+  "value": "Akurli"
+},
+{
+  "_id": "68173414d4528ba34a355e3d",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-04T09:32:04.783Z",
+  "value": "Ambivali"
+},
+{
+  "_id": "68173414d4528ba34a355e3e",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Andheri"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-04T09:32:04.783Z",
+  "value": "Andheri"
+},
+{
+  "_id": "68173414d4528ba34a355e3f",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Anik"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-04T09:32:04.783Z",
+  "value": "Anik"
+},
+{
+  "_id": "68173414d4528ba34a355e40",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Are"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-04T09:32:04.783Z",
+  "value": "Are"
+},
+{
+  "_id": "68173414d4528ba34a355e41",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Asalpha"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-04T09:32:04.783Z",
+  "value": "Asalpha"
+},
+{
+  "_id": "68173415d4528ba34a355e42",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse",
+    "0"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747403055.664802,
+  "value": "0"
+},
+{
+  "_id": "68173415d4528ba34a355e43",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse",
+    "1"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747403245.447032,
+  "value": "1"
+},
+{
+  "_id": "68173415d4528ba34a355e44",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse",
+    "2"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747403423.539134,
+  "value": "2"
+},
+{
+  "_id": "68173415d4528ba34a355e45",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse",
+    "3"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747403581.725109,
+  "value": "3"
+},
+{
+  "_id": "68173415d4528ba34a355e46",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse",
+    "4"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747403739.597226,
+  "value": "4"
+},
+{
+  "_id": "68173415d4528ba34a355e47",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse",
+    "5"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747403869.970129,
+  "value": "5"
+},
+{
+  "_id": "68173415d4528ba34a355e48",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse",
+    "6"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747404077.032404,
+  "value": "6"
+},
+{
+  "_id": "68173415d4528ba34a355e49",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse",
+    "7"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747404222.988487,
+  "value": "7"
+},
+{
+  "_id": "68173415d4528ba34a355e4a",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse",
+    "8"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akse"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747404362.22416,
+  "value": "8"
+},
+{
+  "_id": "68176647d4528ba34a3562eb",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi",
+    "0"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747404467.368883,
+  "value": "0"
+},
+{
+  "_id": "68176647d4528ba34a3562ec",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi",
+    "1"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747404571.720754,
+  "value": "1"
+},
+{
+  "_id": "68176647d4528ba34a3562ed",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi",
+    "2"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747404669.2762072,
+  "value": "2"
+},
+{
+  "_id": "68176647d4528ba34a3562ee",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi",
+    "3"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747404804.3896499,
+  "value": "3"
+},
+{
+  "_id": "68176647d4528ba34a3562ef",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi",
+    "4"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747405028.8191092,
+  "value": "4"
+},
+{
+  "_id": "68176647d4528ba34a3562f0",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi",
+    "5"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747405188.60273,
+  "value": "5"
+},
+{
+  "_id": "68176647d4528ba34a3562f1",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi",
+    "6"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747405321.768277,
+  "value": "6"
+},
+{
+  "_id": "68176647d4528ba34a3562f2",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi",
+    "7"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747406091.967702,
+  "value": "7"
+},
+{
+  "_id": "68176647d4528ba34a3562f3",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi",
+    "8"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurdi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747406406.36319,
+  "value": "8"
+},
+{
+  "_id": "68177040d4528ba34a356388",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli",
+    "0"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747406808.4749272,
+  "value": "0"
+},
+{
+  "_id": "68177040d4528ba34a356389",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli",
+    "1"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747406992.9228082,
+  "value": "1"
+},
+{
+  "_id": "68177040d4528ba34a35638a",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli",
+    "2"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747412543.014511,
+  "value": "2"
+},
+{
+  "_id": "68177040d4528ba34a35638b",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli",
+    "3"
+  ],
+  "completed": true,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747421801.6515572,
+  "value": "3"
+},
+{
+  "_id": "68177040d4528ba34a35638c",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746438597.4311578,
+  "value": "4"
+},
+{
+  "_id": "68177040d4528ba34a35638d",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746439741.5578883,
+  "value": "5"
+},
+{
+  "_id": "68177040d4528ba34a35638e",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746440245.8465362,
+  "value": "6"
+},
+{
+  "_id": "68177040d4528ba34a35638f",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746440767.6408117,
+  "value": "7"
+},
+{
+  "_id": "68177040d4528ba34a356390",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Akurli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746441270.4245882,
+  "value": "8"
+},
+{
+  "_id": "68189436d4528ba34a3570f6",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746441753.1347442,
+  "value": "0"
+},
+{
+  "_id": "68189436d4528ba34a3570f7",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746445913.0693848,
+  "value": "1"
+},
+{
+  "_id": "68189436d4528ba34a3570f8",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746447162.367083,
+  "value": "2"
+},
+{
+  "_id": "68189436d4528ba34a3570f9",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": "2025-05-05T10:34:30.609Z",
+  "value": "3"
+},
+{
+  "_id": "68189436d4528ba34a3570fa",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": "2025-05-05T10:34:30.609Z",
+  "value": "4"
+},
+{
+  "_id": "68189436d4528ba34a3570fb",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": "2025-05-05T10:34:30.609Z",
+  "value": "5"
+},
+{
+  "_id": "68189436d4528ba34a3570fc",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": "2025-05-05T10:34:30.609Z",
+  "value": "6"
+},
+{
+  "_id": "68189436d4528ba34a3570fd",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": "2025-05-05T10:34:30.609Z",
+  "value": "7"
+},
+{
+  "_id": "68189436d4528ba34a3570fe",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "A",
+    "Ambivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": "2025-05-05T10:34:30.609Z",
+  "value": "8"
+},
+{
+  "_id": "6818ae11d4528ba34a3572f4",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Akse"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-05T12:24:49.172Z",
+  "value": "Akse"
+},
+{
+  "_id": "6818ae11d4528ba34a3572f5",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Akurdi"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-05T12:24:49.172Z",
+  "value": "Akurdi"
+},
+{
+  "_id": "6818ae11d4528ba34a3572f6",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Akurli"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-05T12:24:49.172Z",
+  "value": "Akurli"
+},
+{
+  "_id": "6818ae11d4528ba34a3572f7",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Ambivali"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-05T12:24:49.172Z",
+  "value": "Ambivali"
+},
+{
+  "_id": "6818ae11d4528ba34a3572f8",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Andheri"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-05T12:24:49.172Z",
+  "value": "Andheri"
+},
+{
+  "_id": "6818ae11d4528ba34a3572f9",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Anik"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-05T12:24:49.172Z",
+  "value": "Anik"
+},
+{
+  "_id": "6818ae11d4528ba34a3572fa",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Are"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-05T12:24:49.172Z",
+  "value": "Are"
+},
+{
+  "_id": "6818ae11d4528ba34a3572fb",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Asalpha"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-05T12:24:49.172Z",
+  "value": "Asalpha"
+},
+{
+  "_id": "6818afefd4528ba34a357301",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": 1746685295.734984,
+  "value": "Badhavan"
+},
+{
+  "_id": "6818afefd4528ba34a357302",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": 1746685296.08709,
+  "value": "Bandivali"
+},
+{
+  "_id": "6818afefd4528ba34a357303",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": 1746685296.452627,
+  "value": "Bandra"
+},
+{
+  "_id": "6818afefd4528ba34a357304",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": 1746685962.584657,
+  "value": "Bapanale"
+},
+{
+  "_id": "6818afefd4528ba34a357305",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": 1746685962.840287,
+  "value": "Belapur"
+},
+{
+  "_id": "6818afefd4528ba34a357306",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": 1746694589.736329,
+  "value": "Bhandup"
+},
+{
+  "_id": "6818afefd4528ba34a357307",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": 1746695940.165811,
+  "value": "Boli"
+},
+{
+  "_id": "6818afefd4528ba34a357308",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": 1746723060.5119913,
+  "value": "Borala"
+},
+{
+  "_id": "6818afefd4528ba34a357309",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": 1746728337.1675768,
+  "value": "Borivali"
+},
+{
+  "_id": "6818afefd4528ba34a35730a",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B"
+  ],
+  "type": "AREA",
+  "updated_at": 1746734617.5694768,
+  "value": "Bramhanvada"
+},
+{
+  "_id": "6818affbd4528ba34a35730b",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746471923.4665432,
+  "value": "0"
+},
+{
+  "_id": "6818affbd4528ba34a35730c",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746472377.9961696,
+  "value": "1"
+},
+{
+  "_id": "6818affbd4528ba34a35730d",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746472497.9680977,
+  "value": "2"
+},
+{
+  "_id": "6818affbd4528ba34a35730e",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746472727.6573813,
+  "value": "3"
+},
+{
+  "_id": "6818affbd4528ba34a35730f",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746472882.82463,
+  "value": "4"
+},
+{
+  "_id": "6818affbd4528ba34a357310",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746473115.1421502,
+  "value": "5"
+},
+{
+  "_id": "6818affbd4528ba34a357311",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746473377.1591408,
+  "value": "6"
+},
+{
+  "_id": "6818affbd4528ba34a357312",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746473557.48905,
+  "value": "7"
+},
+{
+  "_id": "6818affbd4528ba34a357313",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Badhavan"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746501390.3094795,
+  "value": "8"
+},
+{
+  "_id": "68197f0ed4528ba34a3577b0",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746501557.50933,
+  "value": "0"
+},
+{
+  "_id": "68197f0ed4528ba34a3577b1",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746502828.7935734,
+  "value": "1"
+},
+{
+  "_id": "68197f0ed4528ba34a3577b2",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746503003.6852858,
+  "value": "2"
+},
+{
+  "_id": "68197f0ed4528ba34a3577b3",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746503508.6299398,
+  "value": "3"
+},
+{
+  "_id": "68197f0ed4528ba34a3577b4",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746504587.2738707,
+  "value": "4"
+},
+{
+  "_id": "68197f0ed4528ba34a3577b5",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746505258.4151342,
+  "value": "5"
+},
+{
+  "_id": "68197f0ed4528ba34a3577b6",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746505799.8626091,
+  "value": "6"
+},
+{
+  "_id": "68197f0ed4528ba34a3577b7",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746625133.6999874,
+  "value": "7"
+},
+{
+  "_id": "68197f0ed4528ba34a3577b8",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746625739.1899052,
+  "value": "8"
+},
+{
+  "_id": "681b64cbd4528ba34a358231",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746633191.7429156,
+  "value": "0"
+},
+{
+  "_id": "681b64cbd4528ba34a358232",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746638959.1841874,
+  "value": "1"
+},
+{
+  "_id": "681b64cbd4528ba34a358233",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746646425.835959,
+  "value": "2"
+},
+{
+  "_id": "681b64cbd4528ba34a358234",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746646765.0478592,
+  "value": "3"
+},
+{
+  "_id": "681b64cbd4528ba34a358235",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746650934.6188326,
+  "value": "4"
+},
+{
+  "_id": "681b64cbd4528ba34a358236",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746660779.1086538,
+  "value": "5"
+},
+{
+  "_id": "681b64cbd4528ba34a358237",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746661278.8067157,
+  "value": "6"
+},
+{
+  "_id": "681b64cbd4528ba34a358238",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746669673.5399585,
+  "value": "7"
+},
+{
+  "_id": "681b64cbd4528ba34a358239",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bandra"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746672660.3766215,
+  "value": "8"
+},
+{
+  "_id": "681c1c16ca1bc1e57bfc5da3",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746673125.7309206,
+  "value": "1"
+},
+{
+  "_id": "681c1c16ca1bc1e57bfc5da4",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746674917.7802818,
+  "value": "2"
+},
+{
+  "_id": "681c1c16ca1bc1e57bfc5da2",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746672744.4451234,
+  "value": "0"
+},
+{
+  "_id": "681c1c16ca1bc1e57bfc5da5",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746676312.5227766,
+  "value": "3"
+},
+{
+  "_id": "681c1c16ca1bc1e57bfc5da6",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746676692.2755556,
+  "value": "4"
+},
+{
+  "_id": "681c1c16ca1bc1e57bfc5da7",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746676819.5146394,
+  "value": "5"
+},
+{
+  "_id": "681c1c16ca1bc1e57bfc5da8",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746676962.9741468,
+  "value": "6"
+},
+{
+  "_id": "681c1c16ca1bc1e57bfc5da9",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746677403.7814207,
+  "value": "7"
+},
+{
+  "_id": "681c1c16ca1bc1e57bfc5daa",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bapanale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746677600.8113933,
+  "value": "8"
+},
+{
+  "_id": "681c2f61ca1bc1e57bfc5e4d",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746677816.5958147,
+  "value": "0"
+},
+{
+  "_id": "681c2f61ca1bc1e57bfc5e4e",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746678942.1912313,
+  "value": "1"
+},
+{
+  "_id": "681c2f61ca1bc1e57bfc5e4f",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746679198.6027071,
+  "value": "2"
+},
+{
+  "_id": "681c2f61ca1bc1e57bfc5e50",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746679363.4250786,
+  "value": "3"
+},
+{
+  "_id": "681c2f61ca1bc1e57bfc5e51",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746679512.2542958,
+  "value": "4"
+},
+{
+  "_id": "681c2f61ca1bc1e57bfc5e52",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746679694.6473496,
+  "value": "5"
+},
+{
+  "_id": "681c2f61ca1bc1e57bfc5e53",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746681721.8375964,
+  "value": "6"
+},
+{
+  "_id": "681c2f61ca1bc1e57bfc5e54",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746681962.1162868,
+  "value": "7"
+},
+{
+  "_id": "681c2f61ca1bc1e57bfc5e55",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Belapur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746682078.2870216,
+  "value": "8"
+},
+{
+  "_id": "681c3f2aca1bc1e57bfc5e72",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": 1746749518.0895379,
+  "value": "Chakala"
+},
+{
+  "_id": "681c3f2aca1bc1e57bfc5e73",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": 1746761339.2153556,
+  "value": "Chandivali"
+},
+{
+  "_id": "681c3f2aca1bc1e57bfc5e74",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": 1746778126.2971392,
+  "value": "Charkop"
+},
+{
+  "_id": "681c3f2aca1bc1e57bfc5e75",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": 1747101427.0795941,
+  "value": "Chembur"
+},
+{
+  "_id": "681c3f2aca1bc1e57bfc5e76",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": 1747124712.8465545,
+  "value": "Chinchavali"
+},
+{
+  "_id": "681c3f2aca1bc1e57bfc5e77",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": 1747128021.2961595,
+  "value": "Chincholi"
+},
+{
+  "_id": "681c3f2aca1bc1e57bfc5e78",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": 1747129722.3193526,
+  "value": "Chinchwad"
+},
+{
+  "_id": "681c3f2aca1bc1e57bfc5e79",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": 1747131449.2286146,
+  "value": "Chuing"
+},
+{
+  "_id": "681c3f2dca1bc1e57bfc5e7a",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D"
+  ],
+  "type": "AREA",
+  "updated_at": 1747156896.7496955,
+  "value": "Dahisar"
+},
+{
+  "_id": "681c3f2dca1bc1e57bfc5e7b",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D"
+  ],
+  "type": "AREA",
+  "updated_at": 1747158664.1059072,
+  "value": "Danda"
+},
+{
+  "_id": "681c3f2dca1bc1e57bfc5e7c",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D"
+  ],
+  "type": "AREA",
+  "updated_at": 1747160183.6424575,
+  "value": "Daravali"
+},
+{
+  "_id": "681c3f2dca1bc1e57bfc5e7d",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D"
+  ],
+  "type": "AREA",
+  "updated_at": 1747164055.4023595,
+  "value": "Darave"
+},
+{
+  "_id": "681c3f2dca1bc1e57bfc5e7e",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D"
+  ],
+  "type": "AREA",
+  "updated_at": 1747165063.4459143,
+  "value": "Dehugaon"
+},
+{
+  "_id": "681c3f2dca1bc1e57bfc5e7f",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D"
+  ],
+  "type": "AREA",
+  "updated_at": 1747166517.0612948,
+  "value": "Dehurod-Cantonment"
+},
+{
+  "_id": "681c3f2dca1bc1e57bfc5e80",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D"
+  ],
+  "type": "AREA",
+  "updated_at": 1747178053.1597767,
+  "value": "Devanar"
+},
+{
+  "_id": "681c3f2dca1bc1e57bfc5e81",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D"
+  ],
+  "type": "AREA",
+  "updated_at": 1747187884.9847848,
+  "value": "Dindoshi"
+},
+{
+  "_id": "681c3f2dca1bc1e57bfc5e82",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D"
+  ],
+  "type": "AREA",
+  "updated_at": 1747189145.1130295,
+  "value": "Divale"
+},
+{
+  "_id": "681c3f32ca1bc1e57bfc5e83",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E"
+  ],
+  "type": "AREA",
+  "updated_at": 1747197538.2983892,
+  "value": "Eksar"
+},
+{
+  "_id": "681c3f32ca1bc1e57bfc5e84",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E"
+  ],
+  "type": "AREA",
+  "updated_at": 1747213553.8892465,
+  "value": "Erangal"
+},
+{
+  "_id": "681c3f35ca1bc1e57bfc5e85",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-08T05:20:53.340Z",
+  "value": "Ghatkopar"
+},
+{
+  "_id": "681c3f35ca1bc1e57bfc5e86",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Gorai"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-08T05:20:53.340Z",
+  "value": "Gorai"
+},
+{
+  "_id": "681c3f35ca1bc1e57bfc5e87",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Goregaon"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-08T05:20:53.340Z",
+  "value": "Goregaon"
+},
+{
+  "_id": "681c3f35ca1bc1e57bfc5e88",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Gundavali"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-08T05:20:53.340Z",
+  "value": "Gundavali"
+},
+{
+  "_id": "681c3f35ca1bc1e57bfc5e89",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Gundavali Gundavali "
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-08T05:20:53.340Z",
+  "value": "Gundavali Gundavali "
+},
+{
+  "_id": "681c3f35ca1bc1e57bfc5e8a",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Gundgaon"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-08T05:20:53.340Z",
+  "value": "Gundgaon"
+},
+{
+  "_id": "681c3f38ca1bc1e57bfc5e8b",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "H",
+    "Hariyali"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "H"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-08T05:20:56.611Z",
+  "value": "Hariyali"
+},
+{
+  "_id": "681c40e6ca1bc1e57bfc5e8f",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746684461.549219,
+  "value": "0"
+},
+{
+  "_id": "681c40e6ca1bc1e57bfc5e90",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746686317.727819,
+  "value": "1"
+},
+{
+  "_id": "681c40e6ca1bc1e57bfc5e91",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746686467.2499819,
+  "value": "2"
+},
+{
+  "_id": "681c40e6ca1bc1e57bfc5e92",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746686718.61584,
+  "value": "3"
+},
+{
+  "_id": "681c40e6ca1bc1e57bfc5e93",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746686874.289181,
+  "value": "4"
+},
+{
+  "_id": "681c40e6ca1bc1e57bfc5e94",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746690214.067132,
+  "value": "5"
+},
+{
+  "_id": "681c40e6ca1bc1e57bfc5e95",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746691699.353058,
+  "value": "6"
+},
+{
+  "_id": "681c40e6ca1bc1e57bfc5e96",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746692715.741471,
+  "value": "7"
+},
+{
+  "_id": "681c40e6ca1bc1e57bfc5e97",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bhandup"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746694589.623877,
+  "value": "8"
+},
+{
+  "_id": "681c71bdca1bc1e57bfc6091",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746694711.780234,
+  "value": "0"
+},
+{
+  "_id": "681c71bdca1bc1e57bfc6092",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746694797.1733508,
+  "value": "1"
+},
+{
+  "_id": "681c71bdca1bc1e57bfc6093",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746694886.4513652,
+  "value": "2"
+},
+{
+  "_id": "681c71bdca1bc1e57bfc6094",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746695386.776545,
+  "value": "3"
+},
+{
+  "_id": "681c71bdca1bc1e57bfc6095",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746695467.703264,
+  "value": "4"
+},
+{
+  "_id": "681c71bdca1bc1e57bfc6096",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746695549.215574,
+  "value": "5"
+},
+{
+  "_id": "681c71bdca1bc1e57bfc6098",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746695778.206183,
+  "value": "7"
+},
+{
+  "_id": "681c71bdca1bc1e57bfc6099",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746695927.271467,
+  "value": "8"
+},
+{
+  "_id": "681c71bdca1bc1e57bfc6097",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Boli"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746695662.569142,
+  "value": "6"
+},
+{
+  "_id": "681c7704ca1bc1e57bfc60df",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746696048.326714,
+  "value": "0"
+},
+{
+  "_id": "681c7704ca1bc1e57bfc60e0",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746711954.3740776,
+  "value": "1"
+},
+{
+  "_id": "681c7704ca1bc1e57bfc60e1",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746716686.5824711,
+  "value": "2"
+},
+{
+  "_id": "681c7704ca1bc1e57bfc60e2",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746717023.1976345,
+  "value": "3"
+},
+{
+  "_id": "681c7704ca1bc1e57bfc60e3",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746720140.0423267,
+  "value": "4"
+},
+{
+  "_id": "681c7704ca1bc1e57bfc60e4",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746722287.3558097,
+  "value": "5"
+},
+{
+  "_id": "681c7704ca1bc1e57bfc60e5",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746722596.8653328,
+  "value": "6"
+},
+{
+  "_id": "681c7704ca1bc1e57bfc60e6",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746722815.655442,
+  "value": "7"
+},
+{
+  "_id": "681c7704ca1bc1e57bfc60e7",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746723060.391946,
+  "value": "8"
+},
+{
+  "_id": "681ce122ca1bc1e57bfc68ca",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746724168.140065,
+  "value": "0"
+},
+{
+  "_id": "681ce122ca1bc1e57bfc68cb",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746727017.0704222,
+  "value": "1"
+},
+{
+  "_id": "681ce122ca1bc1e57bfc68cc",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746727150.9181333,
+  "value": "2"
+},
+{
+  "_id": "681ce122ca1bc1e57bfc68cd",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746727287.5940728,
+  "value": "3"
+},
+{
+  "_id": "681ce122ca1bc1e57bfc68ce",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746727431.1064138,
+  "value": "4"
+},
+{
+  "_id": "681ce122ca1bc1e57bfc68cf",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746727690.264293,
+  "value": "5"
+},
+{
+  "_id": "681ce122ca1bc1e57bfc68d0",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746727839.6728177,
+  "value": "6"
+},
+{
+  "_id": "681ce122ca1bc1e57bfc68d1",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746727972.7506964,
+  "value": "7"
+},
+{
+  "_id": "681ce122ca1bc1e57bfc68d2",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Borivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746728269.9674122,
+  "value": "8"
+},
+{
+  "_id": "681cf591ca1bc1e57bfc68e1",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746728500.1961598,
+  "value": "0"
+},
+{
+  "_id": "681cf591ca1bc1e57bfc68e2",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746732051.265851,
+  "value": "1"
+},
+{
+  "_id": "681cf591ca1bc1e57bfc68e3",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746732639.2114851,
+  "value": "2"
+},
+{
+  "_id": "681cf591ca1bc1e57bfc68e4",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746733004.905355,
+  "value": "3"
+},
+{
+  "_id": "681cf591ca1bc1e57bfc68e5",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746733795.7422073,
+  "value": "4"
+},
+{
+  "_id": "681cf591ca1bc1e57bfc68e6",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746734248.5723548,
+  "value": "5"
+},
+{
+  "_id": "681cf591ca1bc1e57bfc68e7",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746734370.591752,
+  "value": "6"
+},
+{
+  "_id": "681cf591ca1bc1e57bfc68e8",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746734471.1300864,
+  "value": "7"
+},
+{
+  "_id": "681cf591ca1bc1e57bfc68e9",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "B",
+    "Bramhanvada"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746734617.446633,
+  "value": "8"
+},
+{
+  "_id": "681d0e20ca1bc1e57bfc6902",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746744497.576513,
+  "value": "4"
+},
+{
+  "_id": "681d0e20ca1bc1e57bfc6903",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746746693.7521276,
+  "value": "5"
+},
+{
+  "_id": "681d0e20ca1bc1e57bfc6905",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746748599.0032759,
+  "value": "7"
+},
+{
+  "_id": "681d0e20ca1bc1e57bfc6906",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746749517.9632964,
+  "value": "8"
+},
+{
+  "_id": "681d0e20ca1bc1e57bfc68ff",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746740090.1445434,
+  "value": "1"
+},
+{
+  "_id": "681d0e20ca1bc1e57bfc6904",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746747421.1384103,
+  "value": "6"
+},
+{
+  "_id": "681d0e20ca1bc1e57bfc68fe",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746735439.6075814,
+  "value": "0"
+},
+{
+  "_id": "681d0e20ca1bc1e57bfc6900",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746741569.4862835,
+  "value": "2"
+},
+{
+  "_id": "681d0e20ca1bc1e57bfc6901",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chakala"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746744076.2613673,
+  "value": "3"
+},
+{
+  "_id": "681d484eca1bc1e57bfc691d",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746750165.2264805,
+  "value": "0"
+},
+{
+  "_id": "681d484eca1bc1e57bfc691e",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746752648.6434572,
+  "value": "1"
+},
+{
+  "_id": "681d484eca1bc1e57bfc6923",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746759216.817316,
+  "value": "6"
+},
+{
+  "_id": "681d484eca1bc1e57bfc691f",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746752826.4255517,
+  "value": "2"
+},
+{
+  "_id": "681d484eca1bc1e57bfc6921",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746755279.125158,
+  "value": "4"
+},
+{
+  "_id": "681d484eca1bc1e57bfc6920",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746755095.2132623,
+  "value": "3"
+},
+{
+  "_id": "681d484eca1bc1e57bfc6924",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746759906.1977935,
+  "value": "7"
+},
+{
+  "_id": "681d484eca1bc1e57bfc6925",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746761339.0921075,
+  "value": "8"
+},
+{
+  "_id": "681d484eca1bc1e57bfc6922",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chandivali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746758809.395529,
+  "value": "5"
+},
+{
+  "_id": "681d767bca1bc1e57bfc6c3a",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746762036.1250625,
+  "value": "0"
+},
+{
+  "_id": "681d767bca1bc1e57bfc6c3b",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746765743.5696428,
+  "value": "1"
+},
+{
+  "_id": "681d767bca1bc1e57bfc6c3c",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746768153.9718482,
+  "value": "2"
+},
+{
+  "_id": "681d767bca1bc1e57bfc6c3d",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746768614.781902,
+  "value": "3"
+},
+{
+  "_id": "681d767bca1bc1e57bfc6c3e",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746768771.0622702,
+  "value": "4"
+},
+{
+  "_id": "681d767bca1bc1e57bfc6c3f",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746773128.832001,
+  "value": "5"
+},
+{
+  "_id": "681d767bca1bc1e57bfc6c40",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746774557.4839983,
+  "value": "6"
+},
+{
+  "_id": "681d767bca1bc1e57bfc6c41",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746775558.775077,
+  "value": "7"
+},
+{
+  "_id": "681d767bca1bc1e57bfc6c42",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Charkop"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746778126.1731966,
+  "value": "8"
+},
+{
+  "_id": "681db80eca1bc1e57bfc6ffa",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746779191.351479,
+  "value": "0"
+},
+{
+  "_id": "681db80eca1bc1e57bfc6ffb",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746779370.4774516,
+  "value": "1"
+},
+{
+  "_id": "681db80eca1bc1e57bfc6ffc",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746779515.851059,
+  "value": "2"
+},
+{
+  "_id": "681db80eca1bc1e57bfc6ffe",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746781639.9331536,
+  "value": "4"
+},
+{
+  "_id": "681db80eca1bc1e57bfc6ffd",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1746781491.049242,
+  "value": "3"
+},
+{
+  "_id": "681db80eca1bc1e57bfc6fff",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747059230.7964098,
+  "value": "5"
+},
+{
+  "_id": "681db80eca1bc1e57bfc7000",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747097702.2602298,
+  "value": "6"
+},
+{
+  "_id": "681db80eca1bc1e57bfc7001",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747100987.1499197,
+  "value": "7"
+},
+{
+  "_id": "681db80eca1bc1e57bfc7002",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chembur"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747101419.285752,
+  "value": "8"
+},
+{
+  "_id": "681e21b4ca1bc1e57bfc7764",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Badhavan"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-09T15:39:32.249Z",
+  "value": "Badhavan"
+},
+{
+  "_id": "681e21b4ca1bc1e57bfc7765",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Bandivali"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-09T15:39:32.249Z",
+  "value": "Bandivali"
+},
+{
+  "_id": "681e21b4ca1bc1e57bfc7766",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Bandra"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-09T15:39:32.249Z",
+  "value": "Bandra"
+},
+{
+  "_id": "681e21b4ca1bc1e57bfc7767",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Bapanale"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-09T15:39:32.249Z",
+  "value": "Bapanale"
+},
+{
+  "_id": "681e21b4ca1bc1e57bfc7768",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Belapur"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-09T15:39:32.249Z",
+  "value": "Belapur"
+},
+{
+  "_id": "681e21b4ca1bc1e57bfc7769",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Bhandup"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-09T15:39:32.249Z",
+  "value": "Bhandup"
+},
+{
+  "_id": "681e21b4ca1bc1e57bfc776a",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Boli"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-09T15:39:32.249Z",
+  "value": "Boli"
+},
+{
+  "_id": "681e21b4ca1bc1e57bfc776b",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Borala"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-09T15:39:32.249Z",
+  "value": "Borala"
+},
+{
+  "_id": "681e21b4ca1bc1e57bfc776c",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Borivali"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-09T15:39:32.249Z",
+  "value": "Borivali"
+},
+{
+  "_id": "681e21b4ca1bc1e57bfc776d",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Bramhanvada"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-09T15:39:32.249Z",
+  "value": "Bramhanvada"
+},
+{
+  "_id": "6822a6f32d39e52776fcf9c6",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747101586.4706223,
+  "value": "0"
+},
+{
+  "_id": "6822a6f32d39e52776fcf9c7",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747103066.5768414,
+  "value": "1"
+},
+{
+  "_id": "6822a6f32d39e52776fcf9c8",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747108619.3986137,
+  "value": "2"
+},
+{
+  "_id": "6822a6f32d39e52776fcf9c9",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747112345.6004248,
+  "value": "3"
+},
+{
+  "_id": "6822a6f32d39e52776fcf9ca",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747116271.4535606,
+  "value": "4"
+},
+{
+  "_id": "6822a6f32d39e52776fcf9cb",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747117174.2242036,
+  "value": "5"
+},
+{
+  "_id": "6822a6f32d39e52776fcf9cc",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747118251.8340073,
+  "value": "6"
+},
+{
+  "_id": "6822a6f32d39e52776fcf9cd",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747124309.7227333,
+  "value": "7"
+},
+{
+  "_id": "6822a6f32d39e52776fcf9ce",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchavali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747124712.7317526,
+  "value": "8"
+},
+{
+  "_id": "682301e82d39e52776fd0153",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747124842.839158,
+  "value": "0"
+},
+{
+  "_id": "682301e82d39e52776fd0154",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747125450.9231174,
+  "value": "1"
+},
+{
+  "_id": "682301e82d39e52776fd0155",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747125545.9217877,
+  "value": "2"
+},
+{
+  "_id": "682301e82d39e52776fd0156",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747125970.9517925,
+  "value": "3"
+},
+{
+  "_id": "682301e82d39e52776fd0157",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747126592.8378048,
+  "value": "4"
+},
+{
+  "_id": "682301e82d39e52776fd0158",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747126832.8178089,
+  "value": "5"
+},
+{
+  "_id": "682301e82d39e52776fd0159",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747127676.5602539,
+  "value": "6"
+},
+{
+  "_id": "682301e82d39e52776fd015a",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747127807.2494597,
+  "value": "7"
+},
+{
+  "_id": "682301e82d39e52776fd015b",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chincholi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747127982.4021726,
+  "value": "8"
+},
+{
+  "_id": "68230ed52d39e52776fd01ab",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747128150.3028712,
+  "value": "0"
+},
+{
+  "_id": "68230ed52d39e52776fd01ac",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747128288.302594,
+  "value": "1"
+},
+{
+  "_id": "68230ed52d39e52776fd01ad",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747129000.4723446,
+  "value": "2"
+},
+{
+  "_id": "68230ed52d39e52776fd01ae",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747129120.2145894,
+  "value": "3"
+},
+{
+  "_id": "68230ed52d39e52776fd01af",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747129237.2226908,
+  "value": "4"
+},
+{
+  "_id": "68230ed52d39e52776fd01b0",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747129345.7201276,
+  "value": "5"
+},
+{
+  "_id": "68230ed52d39e52776fd01b1",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747129462.5605123,
+  "value": "6"
+},
+{
+  "_id": "68230ed52d39e52776fd01b2",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747129578.648191,
+  "value": "7"
+},
+{
+  "_id": "68230ed52d39e52776fd01b3",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chinchwad"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747129712.609079,
+  "value": "8"
+},
+{
+  "_id": "6823157a2d39e52776fd023f",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747130054.2250872,
+  "value": "0"
+},
+{
+  "_id": "6823157a2d39e52776fd0240",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747130177.7298265,
+  "value": "1"
+},
+{
+  "_id": "6823157a2d39e52776fd0241",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747130270.0124443,
+  "value": "2"
+},
+{
+  "_id": "6823157a2d39e52776fd0242",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747130361.7193463,
+  "value": "3"
+},
+{
+  "_id": "6823157a2d39e52776fd0243",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747130904.4460108,
+  "value": "4"
+},
+{
+  "_id": "6823157a2d39e52776fd0244",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747131003.2933667,
+  "value": "5"
+},
+{
+  "_id": "6823157a2d39e52776fd0245",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747131094.722119,
+  "value": "6"
+},
+{
+  "_id": "6823157a2d39e52776fd0246",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747131193.6874788,
+  "value": "7"
+},
+{
+  "_id": "6823157a2d39e52776fd0247",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "C",
+    "Chuing"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747131442.6773903,
+  "value": "8"
+},
+{
+  "_id": "68231c3b2d39e52776fd02ce",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747138276.0649397,
+  "value": "0"
+},
+{
+  "_id": "68231c3b2d39e52776fd02cf",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747138450.7012436,
+  "value": "1"
+},
+{
+  "_id": "68231c3b2d39e52776fd02d0",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747139217.3480275,
+  "value": "2"
+},
+{
+  "_id": "68231c3b2d39e52776fd02d1",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747139378.942504,
+  "value": "3"
+},
+{
+  "_id": "68231c3b2d39e52776fd02d2",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747143842.361528,
+  "value": "4"
+},
+{
+  "_id": "68231c3b2d39e52776fd02d3",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747144994.8359752,
+  "value": "5"
+},
+{
+  "_id": "68231c3b2d39e52776fd02d4",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747155937.8943605,
+  "value": "6"
+},
+{
+  "_id": "68231c3b2d39e52776fd02d5",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747156108.209627,
+  "value": "7"
+},
+{
+  "_id": "68231c3b2d39e52776fd02d6",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dahisar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747156880.5773203,
+  "value": "8"
+},
+{
+  "_id": "68237fa02d39e52776fd09c8",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747157100.3026447,
+  "value": "0"
+},
+{
+  "_id": "68237fa02d39e52776fd09c9",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747157523.8359485,
+  "value": "1"
+},
+{
+  "_id": "68237fa02d39e52776fd09ca",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747157670.5985417,
+  "value": "2"
+},
+{
+  "_id": "68237fa02d39e52776fd09cb",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747157827.622384,
+  "value": "3"
+},
+{
+  "_id": "68237fa02d39e52776fd09cc",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747158002.6749456,
+  "value": "4"
+},
+{
+  "_id": "68237fa02d39e52776fd09cd",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747158173.3651645,
+  "value": "5"
+},
+{
+  "_id": "68237fa02d39e52776fd09ce",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747158343.7558527,
+  "value": "6"
+},
+{
+  "_id": "68237fa02d39e52776fd09cf",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747158526.2595851,
+  "value": "7"
+},
+{
+  "_id": "68237fa02d39e52776fd09d0",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Danda"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747158651.5226636,
+  "value": "8"
+},
+{
+  "_id": "682386882d39e52776fd09de",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747158770.6817386,
+  "value": "0"
+},
+{
+  "_id": "682386882d39e52776fd09df",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747158966.7423038,
+  "value": "1"
+},
+{
+  "_id": "682386882d39e52776fd09e0",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747159415.1626668,
+  "value": "2"
+},
+{
+  "_id": "682386882d39e52776fd09e1",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747159539.3028772,
+  "value": "3"
+},
+{
+  "_id": "682386882d39e52776fd09e2",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747159669.508453,
+  "value": "4"
+},
+{
+  "_id": "682386882d39e52776fd09e3",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747159817.7209308,
+  "value": "5"
+},
+{
+  "_id": "682386882d39e52776fd09e4",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747159936.2075408,
+  "value": "6"
+},
+{
+  "_id": "682386882d39e52776fd09e5",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747160044.0898392,
+  "value": "7"
+},
+{
+  "_id": "682386882d39e52776fd09e6",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Daravali"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747160171.0655744,
+  "value": "8"
+},
+{
+  "_id": "68238c772d39e52776fd09f0",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747160288.7191021,
+  "value": "0"
+},
+{
+  "_id": "68238c772d39e52776fd09f1",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747160415.915366,
+  "value": "1"
+},
+{
+  "_id": "68238c772d39e52776fd09f2",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747160889.6285787,
+  "value": "2"
+},
+{
+  "_id": "68238c772d39e52776fd09f3",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747161776.527174,
+  "value": "3"
+},
+{
+  "_id": "68238c772d39e52776fd09f4",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747161883.752624,
+  "value": "4"
+},
+{
+  "_id": "68238c772d39e52776fd09f5",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747162008.564438,
+  "value": "5"
+},
+{
+  "_id": "68238c772d39e52776fd09f6",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747162137.7428732,
+  "value": "6"
+},
+{
+  "_id": "68238c772d39e52776fd09f7",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747162882.6072216,
+  "value": "7"
+},
+{
+  "_id": "68238c772d39e52776fd09f8",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Darave"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747163975.9014792,
+  "value": "8"
+},
+{
+  "_id": "68239b972d39e52776fd0a0a",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747164150.5311725,
+  "value": "0"
+},
+{
+  "_id": "68239b972d39e52776fd0a0b",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747164270.9315138,
+  "value": "1"
+},
+{
+  "_id": "68239b972d39e52776fd0a0c",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747164387.9481337,
+  "value": "2"
+},
+{
+  "_id": "68239b972d39e52776fd0a0d",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747164494.5963097,
+  "value": "3"
+},
+{
+  "_id": "68239b972d39e52776fd0a0e",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747164595.975705,
+  "value": "4"
+},
+{
+  "_id": "68239b972d39e52776fd0a0f",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747164699.7014399,
+  "value": "5"
+},
+{
+  "_id": "68239b972d39e52776fd0a10",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747164809.521861,
+  "value": "6"
+},
+{
+  "_id": "68239b972d39e52776fd0a11",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747164922.0535321,
+  "value": "7"
+},
+{
+  "_id": "68239b972d39e52776fd0a12",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehugaon"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747165045.5448031,
+  "value": "8"
+},
+{
+  "_id": "68239f872d39e52776fd0a19",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747165154.0679262,
+  "value": "0"
+},
+{
+  "_id": "68239f872d39e52776fd0a1a",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747165576.530652,
+  "value": "1"
+},
+{
+  "_id": "68239f872d39e52776fd0a1b",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747165812.8595548,
+  "value": "2"
+},
+{
+  "_id": "68239f872d39e52776fd0a1c",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747165922.2872913,
+  "value": "3"
+},
+{
+  "_id": "68239f872d39e52776fd0a1d",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747166029.4335992,
+  "value": "4"
+},
+{
+  "_id": "68239f872d39e52776fd0a1e",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747166139.8043222,
+  "value": "5"
+},
+{
+  "_id": "68239f872d39e52776fd0a1f",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747166252.4878144,
+  "value": "6"
+},
+{
+  "_id": "68239f872d39e52776fd0a20",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747166373.698772,
+  "value": "7"
+},
+{
+  "_id": "68239f872d39e52776fd0a21",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dehurod-Cantonment"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747166498.832981,
+  "value": "8"
+},
+{
+  "_id": "6823a5352d39e52776fd0a26",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747166748.6908066,
+  "value": "0"
+},
+{
+  "_id": "6823a5352d39e52776fd0a27",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747170183.1496348,
+  "value": "1"
+},
+{
+  "_id": "6823a5352d39e52776fd0a28",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747172946.2209315,
+  "value": "2"
+},
+{
+  "_id": "6823a5352d39e52776fd0a29",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747174117.9846525,
+  "value": "3"
+},
+{
+  "_id": "6823a5352d39e52776fd0a2a",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747175041.9951928,
+  "value": "4"
+},
+{
+  "_id": "6823a5352d39e52776fd0a2b",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747176167.9970918,
+  "value": "5"
+},
+{
+  "_id": "6823a5352d39e52776fd0a2c",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747176912.6209211,
+  "value": "6"
+},
+{
+  "_id": "6823a5352d39e52776fd0a2d",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747177880.8484006,
+  "value": "7"
+},
+{
+  "_id": "6823a5352d39e52776fd0a2e",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Devanar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747178053.0219371,
+  "value": "8"
+},
+{
+  "_id": "6823d2452d39e52776fd0a5f",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747179660.381853,
+  "value": "0"
+},
+{
+  "_id": "6823d2452d39e52776fd0a60",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747180833.5790677,
+  "value": "1"
+},
+{
+  "_id": "6823d2452d39e52776fd0a61",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747181309.5168984,
+  "value": "2"
+},
+{
+  "_id": "6823d2452d39e52776fd0a62",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747183112.5856879,
+  "value": "3"
+},
+{
+  "_id": "6823d2452d39e52776fd0a63",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747183618.7286701,
+  "value": "4"
+},
+{
+  "_id": "6823d2452d39e52776fd0a64",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747185442.7688425,
+  "value": "5"
+},
+{
+  "_id": "6823d2452d39e52776fd0a65",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747186620.858555,
+  "value": "6"
+},
+{
+  "_id": "6823d2452d39e52776fd0a66",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747186850.0492094,
+  "value": "7"
+},
+{
+  "_id": "6823d2452d39e52776fd0a67",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Dindoshi"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747187884.856544,
+  "value": "8"
+},
+{
+  "_id": "6823f8ad2d39e52776fd0c4f",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747188011.0482013,
+  "value": "0"
+},
+{
+  "_id": "6823f8ad2d39e52776fd0c50",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747188112.7303135,
+  "value": "1"
+},
+{
+  "_id": "6823f8ad2d39e52776fd0c51",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747188221.4638674,
+  "value": "2"
+},
+{
+  "_id": "6823f8ad2d39e52776fd0c52",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747188323.6660697,
+  "value": "3"
+},
+{
+  "_id": "6823f8ad2d39e52776fd0c53",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747188422.1867955,
+  "value": "4"
+},
+{
+  "_id": "6823f8ad2d39e52776fd0c54",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747188519.0904794,
+  "value": "5"
+},
+{
+  "_id": "6823f8ad2d39e52776fd0c55",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747188616.1607065,
+  "value": "6"
+},
+{
+  "_id": "6823f8ad2d39e52776fd0c56",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747188715.4645793,
+  "value": "7"
+},
+{
+  "_id": "6823f8ad2d39e52776fd0c57",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "D",
+    "Divale"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747189133.9952984,
+  "value": "8"
+},
+{
+  "_id": "6823fd9c2d39e52776fd0c9e",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747189836.03459,
+  "value": "0"
+},
+{
+  "_id": "6823fd9c2d39e52776fd0c9f",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747190019.0443819,
+  "value": "1"
+},
+{
+  "_id": "6823fd9c2d39e52776fd0ca0",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747190191.2056634,
+  "value": "2"
+},
+{
+  "_id": "6823fd9c2d39e52776fd0ca1",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747190356.3794384,
+  "value": "3"
+},
+{
+  "_id": "6823fd9c2d39e52776fd0ca2",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747190612.1365874,
+  "value": "4"
+},
+{
+  "_id": "6823fd9c2d39e52776fd0ca3",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747190842.2631857,
+  "value": "5"
+},
+{
+  "_id": "6823fd9c2d39e52776fd0ca4",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747193758.02506,
+  "value": "6"
+},
+{
+  "_id": "6823fd9c2d39e52776fd0ca5",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747195501.413265,
+  "value": "7"
+},
+{
+  "_id": "6823fd9c2d39e52776fd0ca6",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Eksar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747197538.1621556,
+  "value": "8"
+},
+{
+  "_id": "68241e622d39e52776fd0e9d",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747197936.3342392,
+  "value": "0"
+},
+{
+  "_id": "68241e622d39e52776fd0e9e",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747200754.1509857,
+  "value": "1"
+},
+{
+  "_id": "68241e622d39e52776fd0e9f",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747208434.0159805,
+  "value": "2"
+},
+{
+  "_id": "68241e622d39e52776fd0ea0",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747210951.546724,
+  "value": "3"
+},
+{
+  "_id": "68241e622d39e52776fd0ea1",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal",
+    "4"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747212429.7839086,
+  "value": "4"
+},
+{
+  "_id": "68241e622d39e52776fd0ea2",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747212747.3483138,
+  "value": "5"
+},
+{
+  "_id": "68241e622d39e52776fd0ea3",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747212987.4539213,
+  "value": "6"
+},
+{
+  "_id": "68241e622d39e52776fd0ea4",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747213342.456459,
+  "value": "7"
+},
+{
+  "_id": "68241e622d39e52776fd0ea5",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Erangal"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747213553.7198472,
+  "value": "8"
+},
+{
+  "_id": "68245cfb2d39e52776fd1200",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar",
+    "0"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747214977.4657843,
+  "value": "0"
+},
+{
+  "_id": "68245cfb2d39e52776fd1201",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar",
+    "1"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747215484.5725398,
+  "value": "1"
+},
+{
+  "_id": "68245cfb2d39e52776fd1202",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar",
+    "2"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747216019.2695024,
+  "value": "2"
+},
+{
+  "_id": "68245cfb2d39e52776fd1203",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar",
+    "3"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747216515.6350315,
+  "value": "3"
+},
+{
+  "_id": "68245cfb2d39e52776fd1205",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar",
+    "5"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747218111.2376037,
+  "value": "5"
+},
+{
+  "_id": "68245cfb2d39e52776fd1206",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar",
+    "6"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747245643.9762876,
+  "value": "6"
+},
+{
+  "_id": "68245cfb2d39e52776fd1207",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar",
+    "7"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747253564.881371,
+  "value": "7"
+},
+{
+  "_id": "68245cfb2d39e52776fd1208",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar",
+    "8"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "G",
+    "Ghatkopar"
+  ],
+  "type": "PROPERTY_NUMBER",
+  "updated_at": 1747401833.155016,
+  "value": "8"
+},
+{
+  "_id": "682524e72d39e52776fd1ed2",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Dahisar"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-14T23:19:03.592Z",
+  "value": "Dahisar"
+},
+{
+  "_id": "682524e72d39e52776fd1ed3",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Danda"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-14T23:19:03.592Z",
+  "value": "Danda"
+},
+{
+  "_id": "682524e72d39e52776fd1ed4",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Daravali"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-14T23:19:03.592Z",
+  "value": "Daravali"
+},
+{
+  "_id": "682524e72d39e52776fd1ed5",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Darave"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-14T23:19:03.592Z",
+  "value": "Darave"
+},
+{
+  "_id": "682524e72d39e52776fd1ed6",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Dehugaon"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-14T23:19:03.592Z",
+  "value": "Dehugaon"
+},
+{
+  "_id": "682524e72d39e52776fd1ed7",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Dehurod-Cantonment"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-14T23:19:03.592Z",
+  "value": "Dehurod-Cantonment"
+},
+{
+  "_id": "682524e72d39e52776fd1ed8",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Devanar"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-14T23:19:03.592Z",
+  "value": "Devanar"
+},
+{
+  "_id": "682524e72d39e52776fd1ed9",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Dindoshi"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-14T23:19:03.592Z",
+  "value": "Dindoshi"
+},
+{
+  "_id": "682524e72d39e52776fd1eda",
+  "path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E",
+    "Divale"
+  ],
+  "completed": false,
+  "parent_path": [
+    "INCOME",
+    "मुंबई उपनगर जिल्हा",
+    "E"
+  ],
+  "type": "AREA",
+  "updated_at": "2025-05-14T23:19:03.592Z",
+  "value": "Divale"
+}]
