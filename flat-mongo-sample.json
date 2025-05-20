@@ -25,7 +25,7 @@
   ],
   "completed": false,
   "parent_path": [],
-  "type": "YEAR",
+  "type": "CENSUS_TYPE",
   "updated_at": "2025-05-03T18:19:15.765Z",
   "value": "INCOME"
 },

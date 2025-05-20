@@ -76,7 +76,7 @@ Example data set:
     "path": ["1985"],
     "completed": false,
     "parent_path": [],
-    "type": "YEAR",
+    "type": "CENSUS_TYPE",
     "value": "1985"
   },
   {
